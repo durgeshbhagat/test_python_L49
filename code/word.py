@@ -1,3 +1,8 @@
 st = input()
-word_list = st.strip().split()
+word_list = st.split()
 print(word_list)
+print(word_list.lower())
+x=5
+y=3
+z= x+y
+print(z)
