@@ -6,3 +6,8 @@ x=5
 y=3
 z= x+y
 print(z)
+
+def multiply(p, q):
+   t = p*q
+   return t
+
